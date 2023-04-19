@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/otp-auth/static/css/main.f5de08eb.css",
+    "main.js": "/otp-auth/static/js/main.cf82b281.js",
+    "index.html": "/otp-auth/index.html",
+    "main.f5de08eb.css.map": "/otp-auth/static/css/main.f5de08eb.css.map",
+    "main.cf82b281.js.map": "/otp-auth/static/js/main.cf82b281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5de08eb.css",
+    "static/js/main.cf82b281.js"
+  ]
+}
